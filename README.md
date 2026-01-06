@@ -1,13 +1,13 @@
 # Olá, eu sou o Leandro! 👋
 
-Sou graduando no 8º período de **Ciência da Computação** e atuo como **Estagiário em TI / Suporte Técnico**. 
-Meu foco atual é unir conhecimentos de infraestrutura e redes com desenvolvimento de software.
+Sou **Bacharel em Ciência da Computação** e possuo experiência prática em **Suporte Técnico e Infraestrutura**.
+Meu foco é unir meus conhecimentos de redes, hardware e desenvolvimento de software para criar soluções eficientes. Atualmente, busco oportunidades como **Analista Júnior** na área de Tecnologia.
 
 ### 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias que utilizo e estudo:
 
 * **Linguagens:** Java, Python, C++, C#
-* **Banco de Dados:** MySQL
+* **Banco de Dados:** MySQL, MongoDB
 * **Infraestrutura & Suporte:** Redes (Cabeamento e Estruturação), Manutenção de Hardware, GLPI
 * **Outros:** Pacote Office Avançado, Git/GitHub
 
@@ -20,4 +20,4 @@ Aqui estão algumas das tecnologias que utilizo e estudo:
 * [E-mail](mailto:leandrofelipereisrodrigues@gmail.com) ✉️
 
 ---
-*Perfil atualizado em 2025*
+*Perfil atualizado em 2026*
