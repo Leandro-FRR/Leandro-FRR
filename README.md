@@ -1,7 +1,7 @@
 # Olá, eu sou o Leandro! 👋
 
 Sou **Bacharel em Ciência da Computação** e possuo experiência prática em **Suporte Técnico e Infraestrutura**.
-Meu foco é unir meus conhecimentos de redes, hardware e desenvolvimento de software para criar soluções eficientes. Atualmente, busco oportunidades como **Analista Júnior** na área de Tecnologia.
+Meu foco é unir meus conhecimentos de redes, hardware e desenvolvimento de software para criar soluções eficientes. Atualmente, busco oportunidades de nível **Júnior** na área de Tecnologia.
 
 ### 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias que utilizo e estudo:
