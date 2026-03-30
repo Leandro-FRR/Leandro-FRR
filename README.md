@@ -1,21 +1,28 @@
-# Olá, eu sou o Leandro! 👋
+# Leandro Rodrigues (Lenn)
 
-Sou **Bacharel em Ciência da Computação** e possuo experiência prática em **Suporte Técnico e Infraestrutura**.
-Meu foco é unir meus conhecimentos de redes, hardware e desenvolvimento de software para criar soluções eficientes. Atualmente, busco oportunidades de nível **Júnior** na área de Tecnologia.
+Desenvolvedor de Software & Bacharel em Ciência da Computação.
 
-### 🛠️ Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias que utilizo e estudo:
+## Stack Técnica
 
-* **Linguagens:** Java, Python, C++, C#
-* **Banco de Dados:** MySQL, MongoDB
-* **Infraestrutura & Suporte:** Redes (Cabeamento e Estruturação), Manutenção de Hardware, GLPI
-* **Outros:** Pacote Office Avançado, Git/GitHub
+* **Desenvolvimento:** Java, Spring Boot, JavaScript, Python, C++, C#
+* **Frontend & Web:** HTML5, CSS3, WebSockets (STOMP/SockJS)
+* **Banco de Dados:** PostgreSQL, MySQL, MongoDB
+* **Cloud & DevOps:** Google Cloud Platform (GCP), Linux, Systemd, Caddy
+* **Infraestrutura:** Redes (Estruturação e Cabeamento), Manutenção de Hardware, GLPI
+* **Ferramentas:** Git, GitHub
 
-### 🌐 Idiomas
+## Perfil Profissional
+
+Possuo background prático em Suporte Técnico e Infraestrutura, o que me proporciona uma visão sólida sobre arquitetura de sistemas, servidores e redes. Atualmente, aplico essa base no desenvolvimento de software, construindo aplicações fullstack, desde a modelagem de dados e infraestrutura até a interface e interação do usuário.
+
+Busco oportunidades como Desenvolvedor Júnior.
+
+## Idiomas
+
+* **Inglês:** Intermediário
 * **Português:** Nativo
-* **Inglês:** Avançado
 
-### 📫 Meus contatos
+## Contato
 * [LinkedIn](https://www.linkedin.com/in/leandro-felipe-reis-rodrigues) 👔
 * [E-mail](mailto:leandrofelipereisrodrigues@gmail.com) ✉️
 
