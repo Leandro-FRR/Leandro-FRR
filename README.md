@@ -1,4 +1,4 @@
-# Leandro Rodrigues (Lenn)
+# Lenn
 
 Desenvolvedor de Software & Bacharel em Ciência da Computação.
 
