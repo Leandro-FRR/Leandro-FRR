@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software & Bacharel em Ciência da Computação.
 
-## Stack Técnica
+## Stack
 
 * **Desenvolvimento:** Java, Spring Boot, JavaScript, Python, C++, C#
 * **Frontend & Web:** HTML5, CSS3, WebSockets (STOMP/SockJS)
@@ -11,7 +11,7 @@ Desenvolvedor de Software & Bacharel em Ciência da Computação.
 * **Infraestrutura:** Redes (Estruturação e Cabeamento), Manutenção de Hardware, GLPI
 * **Ferramentas:** Git, GitHub
 
-## Perfil Profissional
+## Perfil
 
 Possuo background prático em Suporte Técnico e Infraestrutura, o que me proporciona uma visão sólida sobre arquitetura de sistemas, servidores e redes. Atualmente, aplico essa base no desenvolvimento de software, construindo aplicações fullstack, desde a modelagem de dados e infraestrutura até a interface e interação do usuário.
 
